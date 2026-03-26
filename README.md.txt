@@ -19,7 +19,7 @@ Praticar conceitos de QA e validação de sistemas.
 - Taxa de aprovação: 61%
 
 ## Módulos testados
-- Login (válido, inválido, edge cases, SQL Injection)
+- Login (válido, inválido, SQL Injection)
 - Carrinho (adição, remoção, múltiplos itens)
 - Navegação (botão voltar, atualização de página)
 - UI (responsividade, botões)
