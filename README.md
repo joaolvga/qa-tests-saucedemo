@@ -8,7 +8,8 @@
 - Identificação e documentação de bugs
 
 ## Ferramentas
-- Excel e Word
+- Excel (casos de teste) - `test-cases.xlsx` — casos de teste planejados e executados
+- Word (relatório de bugs) `bug_report.docx` — defeitos documentados com passos de reprodução
 
 ## Objetivo
 Praticar conceitos de QA e validação de sistemas.
